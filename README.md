@@ -14,7 +14,7 @@ By default, the file will be created in C:\Users\Usuario\Desktop. To change this
 ![image](https://user-images.githubusercontent.com/1207326/220351886-6e1cc7f8-ccd6-4dac-996f-6f605ded817f.png)
 
 
-- In orther to work, it is required to:
+- In order to work, it is required to:
   - Have a first row with the column names
   - Have a second row with the data types: 
     - 'str' for strings
