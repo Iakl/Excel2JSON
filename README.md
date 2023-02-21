@@ -21,6 +21,6 @@ By default, the file will be created in C:\Users\Usuario\Desktop. To change this
     - 'num' for ints, floats and booleans
     - 'arr_str' for arrays of strings
     - 'arr_num' for arrays of ints, floats and booleans
-  - Have Array data values separated by coma and NO spaces
+  - Have the array data values separated by coma and without spaces (unless your strings intentionally have spaces)
 
 By default, the macros is run using ctrl + E
